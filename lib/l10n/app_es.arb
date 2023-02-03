@@ -1,0 +1,18 @@
+{
+    "activities": "Activités",
+    "@activities":{},
+    "all": "Tous",
+    "@all":{},
+    "mineActi": "Mes activités",
+    "@mineActi":{},
+    "register": "S'inscrire",
+    "@register": {},
+    "login": "Connexion",
+    "@login": {},
+    "numberAttendees": "%s participants",
+    "@numberAttendees": {},
+    "profil": "Profil",
+    "@profil": {},
+    "errorShow": "Une erreur c'est produite",
+    "@errorShow": {}
+}
